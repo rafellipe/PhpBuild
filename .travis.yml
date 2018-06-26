@@ -4,7 +4,7 @@ php:
   - '5.6'
   # - '7.0'
   # - nightly
-before install:
-- 
-before-script: 
-- composer install 
+# before install:
+# - 
+# before-script: 
+# - composer install 
